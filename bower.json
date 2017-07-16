@@ -1,5 +1,5 @@
 {
-    "name": "gsap",
+    "name": "greensock",
     "version": "1.20.2",
     "description": "The most flexible, high-performance animation library on the planet. Animate any property of any object. Solves browser quirks.",
     "author": {
