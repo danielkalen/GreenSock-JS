@@ -30,7 +30,7 @@
         "./TimelineMax": "./src/TimelineMax.js",
         "./TweenLite": "./src/TweenLite.js",
         "./TweenMax": "./src/TweenMax.js",
-        "./easing/EasePack": "./src/easing/EasePack.js",
+        "./EasePack": "./src/easing/EasePack.js",
         "./jquery.gsap": "./src/jquery.gsap.js",
         "./AttrPlugin": "./src/plugins/AttrPlugin.js",
         "./BezierPlugin": "./src/plugins/BezierPlugin.js",
