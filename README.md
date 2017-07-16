@@ -1,5 +1,7 @@
 # GSAP (GreenSock Animation Platform)
 
+## NOTE: This if a fork with a proper package.json config for proper modular apps.
+
 #### Ultra high-performance, professional-grade animation for the modern web
 
 GSAP is a JavaScript library for high-performance HTML5 animations that work in **all** major browsers. No other library delivers such advanced sequencing, reliability, API efficiency, and tight control while solving real-world problems for animators on over 3 million sites. GSAP can animate *any* numeric property of *any* JS object, not just CSS properties.
